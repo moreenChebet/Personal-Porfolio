@@ -1,0 +1,36 @@
+body{
+    background-image: url(/Assets/Gr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#Name
+{
+    color: blueviolet;
+    margin-left: 8%;
+    margin-top: 15%;
+}
+
+
+#description
+{
+    max-width: 40%;
+    height: 400%;
+    text-align: center;
+    background-color: blue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+    
+  }
+  
+  
+ 
