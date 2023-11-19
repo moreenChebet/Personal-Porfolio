@@ -9,5 +9,5 @@
 #Contact Us page<br>
 -Fill out the form provided.<br>
 -Submit your details once done.<br>
--The details provided will be reflected in a mail.<br>
+-Response will open in a new browser tab.<br>
 -You can access my GitHub using the link provided.
