@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+input{
+    width: 300px;
+    height: 20px;
+}
+
+textarea{
+    width: 300px;
+    height: 30px;
+}
+
+#QueryForm{
+    margin-left: 5%;
+}
