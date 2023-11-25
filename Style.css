@@ -3,12 +3,46 @@
     padding: 0%;
 }
 
+/* nav menu */
+nav{
+  background-color: rgb(169, 172, 162);
+  color: black;
+  padding: 10px;
+  text-align: center;
+}
+
+/* don't display menu */
+.menu-icon{
+  display: none;
+}
+
+/* menu styling */
+.menu{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.menu a{
+  text-decoration: none;
+  color: white;
+}
+
 body{
     background-image: url(./Assets/Gr.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
+
+
+/* #navbar{
+  position: fixed;
+  top:0%
+  
+}  */
+
 
 #Name
 {
@@ -28,11 +62,8 @@ body{
     margin-left: 35%;
 } 
 
-   /* {
-        background:url(logo.jpg) bisque no-repeat center;
-   } */
 
-ul {
+/* ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -43,8 +74,4 @@ ul {
     padding-bottom: 20px;
   }
 
-  nav{
-    position: fixed;
-    top:0%
-  } 
- 
+   */
